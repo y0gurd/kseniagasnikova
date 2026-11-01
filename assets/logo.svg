@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" fill="none">
+  <title>Ксения Гасникова — движение в деталях</title>
+  <defs>
+    <linearGradient id="kg-gradient" x1="23" y1="24" x2="79" y2="72" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7c3aed"/>
+      <stop offset="1" stop-color="#b21a9c"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="94" height="94" rx="27" fill="#f5edff" stroke="#e5d5f5" stroke-width="2"/>
+  <path d="M25 25V63M25 46L43 25M25 46L44 63M56 63V25H75" stroke="url(#kg-gradient)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M18 74C36 86 64 84 80 67" stroke="#b21a9c" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="79" cy="17" r="4" fill="#b21a9c"/>
+</svg>
